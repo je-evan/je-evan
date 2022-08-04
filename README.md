@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeevandhkala
+- 👋 Hi, I’m @jeevandhakal
 - 👀 I’m interested in apis, desktop app and AI
 - 🌱 I’m currently learning desktop app development
 - 📫 How to reach me - you can reach me through email "dhakaljeevan165@gmail.com"
