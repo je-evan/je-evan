@@ -1,11 +1,31 @@
-👋 Hello, I'm Jeevan Dhakal, a passionate backend developer with over a year of experience. I'm on an exciting journey of delving into the world of data science while continuing to refine my skills as a developer.
+# Hello, I'm Jeevan Dhakal. 👋
+I am a passionate backend developer with over a year of experience. I'm on an exciting journey of delving into the world of data science while continuing to refine my skills as a developer.
 
-🛠️ My expertise lies in developing full-stack web applications with Django, building robust REST APIs using Django Rest Framework, and crafting efficient GraphQL APIs with GQLgen in Golang. I'm no stranger to the world of web scraping, leveraging Python to extract meaningful insights from the web.
+My expertise lies in developing full-stack web applications with Django, building robust REST APIs using Django Rest Framework, and crafting efficient GraphQL APIs with GQLgen in Golang. I'm no stranger to the world of web scraping, leveraging Python to extract meaningful insights from the web.
 
-🚀 Proficient in Docker, I'm skilled in containerization and orchestrating applications for smooth deployment and scaling. I'm also well-versed in modern software development practices. I've mastered the art of GitHub CI/CD, ensuring seamless integration and deployment. My database prowess extends to PostgreSQL and MySQL, enabling me to design scalable and performant systems.
+Proficient in Docker, I'm skilled in containerization and orchestrating applications for smooth deployment and scaling. I'm also well-versed in modern software development practices. I've mastered the art of GitHub CI/CD, ensuring seamless integration and deployment. My database prowess extends to PostgreSQL and MySQL, enabling me to design scalable and performant systems.
 
-📊 My curiosity has led me to explore the realm of data analysis. I'm actively honing my data analysis skills and applying them through insightful projects. From data cleaning to visualization, I'm dedicated to turning raw data into meaningful narratives.
+My curiosity has led me to explore the realm of data analysis. I'm actively honing my data analysis skills and applying them through insightful projects. From data cleaning to visualization, I'm dedicated to turning raw data into meaningful narratives.
 
-🤝 I'm excited about collaboration and sharing knowledge. Whether it's brainstorming on a project or assisting fellow developers, I'm always open to collaborative efforts. Let's connect and create something awesome together!
+In conclusion, my journey as a backend developer and my fervor for data science converge to offer a unique blend of skills and insights. I'm eager to contribute to innovative projects that harness the power of technology and data to drive impactful solutions. I look forward to connecting with fellow professionals to explore the realms where technology and data intersect for transformative results.
 
-📬 Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/dhakaljeevan), or drop me an email at dhakaljeevan165@gmail.com. Looking forward to new challenges and opportunities!
+## Writing ✍️
+
+I'm passionate about writing on a wide array of topics related to back-end development and data science and its interconnected aspects. My portfolio is available at [dhakaljeevan.com.np](https://dhakaljeevan.com.np/), where you can explore my thoughts and insights.
+
+### Latest Articles:
+
+- [Exploring Salary Data: A Deep Dive into Compensation Trends](https://jeevandhakal.pythonanywhere.com/exploring-salary-data-a-deep-dive-into-compensation-trends/)
+- [Empowering Data Analysis with Python: 5 Essential Free Resources to Get Started](https://jeevandhakal.pythonanywhere.com/empowering-data-analysis-with-python-5-essential-free-resources-to-get-started/)
+- [Top 5 Must-Read Machine Learning Books for Beginners](https://jeevandhakal.pythonanywhere.com/top-5-must-read-machine-learning-books-for-beginners/)
+- [Integrating TinyMCE as a Rich Text Editor in Django Admin](https://jeevandhakal.pythonanywhere.com/integrating-tinymce-as-a-rich-text-editor-in-django-admin/)
+
+## Social 📱
+
+Feel free to connect with me on different social media platforms or drop me an email:
+
+- [LinkedIn](https://www.linkedin.com/in/dhakaljeevan/) 
+- [Facebook](https://www.facebook.com/jeevan.dhakal.121/) 
+- [Instagram](https://www.instagram.com/jee.van_/) 
+- [Email](mailto:@dhakaljeevan165@gmail.com)
+
