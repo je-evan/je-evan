@@ -16,8 +16,8 @@ I'm passionate about writing on a wide array of topics related to back-end devel
 ### Latest Articles:
 
 - [Exploring Salary Data: A Deep Dive into Compensation Trends](https://jeevandhakal.pythonanywhere.com/exploring-salary-data-a-deep-dive-into-compensation-trends/)
-- [Empowering Data Analysis with Python: 5 Essential Free Resources to Get Started](https://jeevandhakal.pythonanywhere.com/empowering-data-analysis-with-python-5-essential-free-resources-to-get-started/)
-- [Top 5 Must-Read Machine Learning Books for Beginners](https://jeevandhakal.pythonanywhere.com/top-5-must-read-machine-learning-books-for-beginners/)
+- [Understanding JSON Web Tokens (JWT): How They Work and Why They Matter](https://jeevandhakal.pythonanywhere.com/understanding-json-web-tokens-jwt-how-they-work-and-why-they-matter/)
+- [Streamlining Application Deployment with GitHub Actions: A Step-by-Step Guide](https://jeevandhakal.pythonanywhere.com/streamlining-application-deployment-with-github-actions-a-step-by-step-guide/)
 - [Integrating TinyMCE as a Rich Text Editor in Django Admin](https://jeevandhakal.pythonanywhere.com/integrating-tinymce-as-a-rich-text-editor-in-django-admin/)
 
 ## Social 📱
